@@ -1,6 +1,3 @@
-To set up the repository and run the marketplace locally, run the below
-
-git clone https://github.com/OMGWINNING/NFT-Marketplace-Tutorial
-cd NFT-Marketplace-Tutorial
+To set up the repository and run the marketplace locally, run the following commands.
 npm install
 npm start
